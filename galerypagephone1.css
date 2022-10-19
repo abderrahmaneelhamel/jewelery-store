@@ -1,0 +1,3325 @@
+.galerypagephone1-container {
+  min-height: 100vh;
+}
+.galerypagephone1-galerypagephone {
+  width: 100%;
+  height: 3322px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(248, 248, 248, 1);
+}
+.galerypagephone1-group153 {
+  top: 258px;
+  left: 0px;
+  width: 390px;
+  height: 2999.234375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-frame14 {
+  top: 1045px;
+  left: 15px;
+  width: 375px;
+  height: 455px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-frame5 {
+  top: 0px;
+  left: 0px;
+  width: 1264px;
+  height: 455.2065124511719px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-rectangle189 {
+  top: 0px;
+  left: 0px;
+  width: 3726px;
+  height: 455px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group151 {
+  top: 22px;
+  left: 0px;
+  width: 1180px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text {
+  top: 37.71461486816406px;
+  left: 122.54940032958984px;
+  color: rgba(12, 12, 12, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-p1png {
+  top: 96px;
+  left: 116px;
+  width: 132px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-div01 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h5 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text002 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text003 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text005 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div02 {
+  top: 0px;
+  left: 410px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text007 {
+  top: 37.71461486816406px;
+  left: 122.54940032958984px;
+  color: rgba(12, 12, 12, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-p1png1 {
+  top: 96px;
+  left: 116px;
+  width: 132px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-div03 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h501 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text009 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text010 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a01 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text012 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div04 {
+  top: 0px;
+  left: 821px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text014 {
+  top: 37.71461486816406px;
+  left: 122.54940032958984px;
+  color: rgba(12, 12, 12, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-p1png2 {
+  top: 96px;
+  left: 116px;
+  width: 132px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-div05 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h502 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text016 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text017 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a02 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text019 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-group1511 {
+  top: 22px;
+  left: 1220px;
+  width: 1159px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div06 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text021 {
+  top: 37.71461486816406px;
+  left: 122.54940032958984px;
+  color: rgba(12, 12, 12, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-p1png3 {
+  top: 96px;
+  left: 116px;
+  width: 132px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-div07 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h503 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text023 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text024 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a03 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text026 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div08 {
+  top: 0px;
+  left: 400px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text028 {
+  top: 37.71461486816406px;
+  left: 122.54940032958984px;
+  color: rgba(12, 12, 12, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-p1png4 {
+  top: 96px;
+  left: 116px;
+  width: 132px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-div09 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h504 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text030 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text031 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a04 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text033 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div10 {
+  top: 0px;
+  left: 800px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text035 {
+  top: 37.71461486816406px;
+  left: 122.54940032958984px;
+  color: rgba(12, 12, 12, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-p1png5 {
+  top: 96px;
+  left: 116px;
+  width: 132px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-div11 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h505 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text037 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text038 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a05 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text040 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-group152 {
+  top: 22px;
+  left: 2467px;
+  width: 1159px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div12 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text042 {
+  top: 37.71461486816406px;
+  left: 122.54940032958984px;
+  color: rgba(12, 12, 12, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-p1png6 {
+  top: 96px;
+  left: 116px;
+  width: 132px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-div13 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h506 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text044 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text045 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a06 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text047 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div14 {
+  top: 0px;
+  left: 400px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text049 {
+  top: 37.71461486816406px;
+  left: 122.54940032958984px;
+  color: rgba(12, 12, 12, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-p1png7 {
+  top: 96px;
+  left: 116px;
+  width: 132px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-div15 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h507 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text051 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text052 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a07 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text054 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div16 {
+  top: 0px;
+  left: 800px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text056 {
+  top: 37.71461486816406px;
+  left: 122.54940032958984px;
+  color: rgba(12, 12, 12, 1);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-p1png8 {
+  top: 96px;
+  left: 116px;
+  width: 132px;
+  height: 97px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-div17 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h508 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text058 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text059 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a08 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text061 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-frame13 {
+  top: 1644px;
+  left: 0px;
+  width: 390px;
+  height: 455px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-frame7 {
+  top: 0px;
+  left: 16px;
+  width: 1264px;
+  height: 455.2065124511719px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-rectangle1891 {
+  top: 0px;
+  left: 0px;
+  width: 3716px;
+  height: 455px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group156 {
+  top: 15px;
+  left: 2460px;
+  width: 1159px;
+  height: 412.2431640625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-group1512 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div18 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text063 {
+  top: 35.2431640625px;
+  left: 110px;
+  color: rgba(12, 12, 12, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div19 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h509 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text065 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text066 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a09 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text068 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-au3r58ahmvvwxkjrzc6qhgoldnecklaceforwemeninstore-s-r {
+  top: 64.2431640625px;
+  left: 129px;
+  width: 102px;
+  height: 142px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group1531 {
+  top: 0.2431640625px;
+  left: 400px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div20 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text070 {
+  top: 35.2431640625px;
+  left: 110px;
+  color: rgba(12, 12, 12, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div21 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h510 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text072 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text073 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a10 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text075 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-au3r58ahmvvwxkjrzc6qhgoldnecklaceforwemeninstore-s-r1 {
+  top: 64.2431640625px;
+  left: 129px;
+  width: 102px;
+  height: 142px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group154 {
+  top: 0.2431640625px;
+  left: 800px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div22 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text077 {
+  top: 35.2431640625px;
+  left: 110px;
+  color: rgba(12, 12, 12, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div23 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h511 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text079 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text080 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a11 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text082 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-au3r58ahmvvwxkjrzc6qhgoldnecklaceforwemeninstore-s-r2 {
+  top: 64.2431640625px;
+  left: 129px;
+  width: 102px;
+  height: 142px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group155 {
+  top: 15px;
+  left: 1230px;
+  width: 1159px;
+  height: 412.2431640625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-group1513 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div24 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text084 {
+  top: 35.2431640625px;
+  left: 110px;
+  color: rgba(12, 12, 12, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div25 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h512 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text086 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text087 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a12 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text089 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-au3r58ahmvvwxkjrzc6qhgoldnecklaceforwemeninstore-s-r3 {
+  top: 64.2431640625px;
+  left: 129px;
+  width: 102px;
+  height: 142px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group1532 {
+  top: 0.2431640625px;
+  left: 400px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div26 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text091 {
+  top: 35.2431640625px;
+  left: 110px;
+  color: rgba(12, 12, 12, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div27 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h513 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text093 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text094 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a13 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text096 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-au3r58ahmvvwxkjrzc6qhgoldnecklaceforwemeninstore-s-r4 {
+  top: 64.2431640625px;
+  left: 129px;
+  width: 102px;
+  height: 142px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group1541 {
+  top: 0.2431640625px;
+  left: 800px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div28 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text098 {
+  top: 35.2431640625px;
+  left: 110px;
+  color: rgba(12, 12, 12, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div29 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h514 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text100 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text101 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a14 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text103 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-au3r58ahmvvwxkjrzc6qhgoldnecklaceforwemeninstore-s-r5 {
+  top: 64.2431640625px;
+  left: 129px;
+  width: 102px;
+  height: 142px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group1551 {
+  top: 22px;
+  left: 0px;
+  width: 1159px;
+  height: 412.2431640625px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-group1514 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div30 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text105 {
+  top: 35.2431640625px;
+  left: 110px;
+  color: rgba(12, 12, 12, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div31 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h515 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text107 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text108 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a15 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text110 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-au3r58ahmvvwxkjrzc6qhgoldnecklaceforwemeninstore-s-r6 {
+  top: 64.2431640625px;
+  left: 129px;
+  width: 102px;
+  height: 142px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group1533 {
+  top: 0.2431640625px;
+  left: 400px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div32 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text112 {
+  top: 35.2431640625px;
+  left: 110px;
+  color: rgba(12, 12, 12, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div33 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h516 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text114 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text115 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a16 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text117 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-au3r58ahmvvwxkjrzc6qhgoldnecklaceforwemeninstore-s-r7 {
+  top: 64.2431640625px;
+  left: 129px;
+  width: 102px;
+  height: 142px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group1542 {
+  top: 0.2431640625px;
+  left: 800px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-div34 {
+  top: 0px;
+  left: 0px;
+  width: 359px;
+  height: 412px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 5.262500286102295px 0px rgba(0, 0, 0, 0.05000000074505806) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.galerypagephone1-text119 {
+  top: 35.2431640625px;
+  left: 110px;
+  color: rgba(12, 12, 12, 1);
+  width: 144px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 18.94499969482422px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div35 {
+  top: 249px;
+  left: 137px;
+  width: 90px;
+  height: 74.55208587646484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h517 {
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 22.804166793823242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text121 {
+  top: -2.631176233291626px;
+  left: 0.9730080962181091px;
+  color: rgba(12, 12, 12, 1);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 19.295833587646484px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 23.155000686645508px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text122 {
+  color: rgba(12, 12, 12, 1);
+}
+.galerypagephone1-a17 {
+  top: 42.97723388671875px;
+  left: 0.000004795268068846781px;
+  width: 90px;
+  height: 31.57499885559082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 0.8770833015441895px;
+}
+.galerypagephone1-text124 {
+  top: 5.262257099151611px;
+  left: 14.03332805633545px;
+  color: rgba(0, 0, 0, 1);
+  width: 62px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-au3r58ahmvvwxkjrzc6qhgoldnecklaceforwemeninstore-s-r8 {
+  top: 64.2431640625px;
+  left: 129px;
+  width: 102px;
+  height: 142px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-section {
+  top: 2145px;
+  left: 0px;
+  width: 390px;
+  height: 854.234375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(54, 54, 54, 1);
+}
+.galerypagephone1-section1 {
+  top: 854.234375px;
+  left: 0px;
+  width: 390px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(54, 54, 54, 1);
+}
+.galerypagephone1-p {
+  top: 0px;
+  left: 55.703125px;
+  width: 279px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text126 {
+  top: 21px;
+  left: 35px;
+  color: rgba(156, 155, 155, 1);
+  width: 209px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-pborder {
+  top: 0px;
+  left: 55.703125px;
+  width: 279px;
+  height: 65px;
+  position: absolute;
+}
+.galerypagephone1-div36 {
+  top: 0px;
+  left: 15px;
+  width: 360px;
+  height: 854.234375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-div37 {
+  top: 0px;
+  left: -15px;
+  width: 390px;
+  height: 488.234375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-div38 {
+  top: 0px;
+  left: 95px;
+  width: 200px;
+  height: 205.625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0 0 50px 50px;
+  background-color: rgba(248, 248, 248, 1);
+}
+.galerypagephone1-i-m-a-g-e111111logoremovebgpreview1 {
+  top: 48.625px;
+  left: 26px;
+  width: 148px;
+  height: 108px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-a18 {
+  top: 240.625px;
+  left: 147.34375px;
+  width: 95px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-locationpng {
+  top: 2.109375px;
+  left: 0px;
+  width: 16px;
+  height: 21px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-text128 {
+  left: 30.28125px;
+  color: rgba(255, 255, 255, 1);
+  width: 65px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-a19 {
+  top: 334.625px;
+  left: 119.671875px;
+  width: 151px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-phonepng {
+  top: 0.609375px;
+  left: 0px;
+  width: 13px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-text130 {
+  left: 27.28125px;
+  color: rgba(255, 255, 255, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-a20 {
+  top: 429.234375px;
+  left: 103.625px;
+  width: 183px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-mailpng {
+  top: 5.109375px;
+  left: 0px;
+  width: 19px;
+  height: 15px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-text132 {
+  left: 33.28125px;
+  color: rgba(255, 255, 255, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div39 {
+  top: 488.234375px;
+  left: 0px;
+  width: 360px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h518 {
+  top: 20px;
+  left: 120.71875px;
+  width: 119px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h5before {
+  top: 27px;
+  left: 36.765625px;
+  width: 45px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5px;
+}
+.galerypagephone1-text134 {
+  top: -2px;
+  color: rgba(255, 255, 255, 1);
+  width: 122px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-form {
+  top: 64px;
+  left: 0px;
+  width: 360px;
+  height: 141px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-div40 {
+  top: 0px;
+  left: 17px;
+  width: 326px;
+  height: 66px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text136 {
+  color: rgba(90, 89, 89, 1);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-inputemail2 {
+  top: 32px;
+  left: 0px;
+  width: 326px;
+  height: 34px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-button {
+  top: 101px;
+  left: 73.28125px;
+  width: 213px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 30px;
+  background-image: linear-gradient(180deg, rgba(245, 228, 123, 1) 0%, rgba(251, 147, 10, 1) 100%);
+}
+.galerypagephone1-text138 {
+  top: 8px;
+  left: 65px;
+  color: rgba(255, 255, 255, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div41 {
+  top: 693.234375px;
+  left: 0px;
+  width: 360px;
+  height: 161px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h519 {
+  top: 55px;
+  left: 125.546875px;
+  width: 109px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h5before1 {
+  top: 27px;
+  left: 31.953125px;
+  width: 45px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 5px;
+}
+.galerypagephone1-text140 {
+  top: -2px;
+  color: rgba(255, 255, 255, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-div42 {
+  top: 114px;
+  left: 78px;
+  width: 204px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-fbpng {
+  top: 0px;
+  left: 10px;
+  width: 31px;
+  height: 32px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-twitterpng {
+  top: 0px;
+  left: 61px;
+  width: 31px;
+  height: 32px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-linkedinpng {
+  top: 0px;
+  left: 112px;
+  width: 31px;
+  height: 32px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-instapng {
+  top: 0px;
+  left: 163px;
+  width: 31px;
+  height: 32px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-divcarousel-example-indicators {
+  top: 0px;
+  left: 15px;
+  width: 360px;
+  height: 685.84375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-div43 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 685.84375px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-div44 {
+  top: 0px;
+  left: -15px;
+  width: 390px;
+  height: 685.84375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-div45 {
+  top: 0px;
+  left: 15px;
+  width: 360px;
+  height: 345px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-h2 {
+  top: 0px;
+  left: 0px;
+  width: 360px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-text142 {
+  top: -3px;
+  color: rgba(12, 12, 12, 1);
+  width: 216px;
+  height: auto;
+  position: absolute;
+  font-size: 28.799999237060547px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 34.560001373291016px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-hr {
+  top: 16.5px;
+  left: 224px;
+  width: 55px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-text144 {
+  top: 29px;
+  left: 47.265625px;
+  color: rgba(12, 12, 12, 1);
+  width: 266px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 57.599998474121094px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text146 {
+  top: 121px;
+  left: 4.40625px;
+  color: rgba(12, 12, 12, 1);
+  width: 351px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-a21 {
+  top: 268px;
+  left: 99.203125px;
+  width: 162px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(13, 8, 6, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(13, 8, 6, 1);
+}
+.galerypagephone1-text148 {
+  top: 9px;
+  left: 41px;
+  color: rgba(255, 255, 255, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-sliderimgpng {
+  top: 345px;
+  left: 15px;
+  width: 360px;
+  height: 341px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-text150 {
+  top: 499.96875px;
+  left: 64.1875px;
+  color: rgba(192, 192, 192, 1);
+  width: 29px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 36px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text152 {
+  top: 1834px;
+  left: 83px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-nav {
+  top: 0px;
+  left: 35px;
+  width: 340px;
+  height: 56.375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.galerypagephone1-span {
+  top: 13.1875px;
+  left: 297px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-rectangle1 {
+  top: 0px;
+  left: 104px;
+  width: 262px;
+  height: 234px;
+  position: absolute;
+}
+.galerypagephone1-span1 {
+  top: 0px;
+  left: 299px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-i-m-a-g-e111111logoremovebgpreview11 {
+  top: 0px;
+  left: 0px;
+  width: 91px;
+  height: 66px;
+  position: absolute;
+  border-color: transparent;
+}
+.galerypagephone1-group1543 {
+  top: 66px;
+  left: 129px;
+  width: 84px;
+  height: 136px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.galerypagephone1-text154 {
+  left: 4px;
+  color: rgba(0, 0, 0, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galerypagephone1-text156 {
+  top: 38px;
+  left: 3px;
+  color: rgba(0, 0, 0, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galerypagephone1-text158 {
+  top: 76px;
+  left: 2px;
+  color: rgba(0, 0, 0, 1);
+  width: 75px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galerypagephone1-text160 {
+  top: 114px;
+  color: rgba(0, 0, 0, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.galerypagephone1-rectangle192 {
+  top: 72px;
+  left: 4px;
+  width: 71px;
+  height: 29px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+}
+.galerypagephone1-text162 {
+  top: 1225px;
+  left: 124px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text164 {
+  top: 1128px;
+  left: 78px;
+  color: rgba(0, 0, 0, 1);
+  width: 234px;
+  height: auto;
+  position: absolute;
+  font-size: 31.575016021728516px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.galerypagephone1-text166 {
+  top: 1063px;
+  left: 138px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35.083351135253906px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

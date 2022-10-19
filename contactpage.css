@@ -1,0 +1,2611 @@
+.contactpage-container {
+  min-height: 100vh;
+}
+.input{
+  width: 400px;
+  height: 50px;
+  border-radius: 15px;
+  border: solid 0px;
+}
+.input1{
+  width: 400px;
+  height: 50px;
+  border-radius: 15px;
+  border: solid 2px;
+}
+.contactpage-contactpage {
+  width: 100%;
+  height: 2066px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contactpage-frame11 {
+  top: 92.97083282470703px;
+  left: 105.25016021728516px;
+  width: 1052px;
+  height: 767.4478759765625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-group148 {
+  top: 38.591670989990234px;
+  left: 71.04391479492188px;
+  width: 899.8873291015625px;
+  height: 512.5750122070312px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-rectangle186 {
+  top: -0.000005434803824755363px;
+  left: 149.98121643066406px;
+  width: 596px;
+  height: 295px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 135.9479217529297px 70.16666412353516px 70.16666412353516px 0;
+}
+.contactpage-text {
+  top: 60.51875305175781px;
+  left: 371.88330078125px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35.08333206176758px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-text02 {
+  top: 121.91456604003906px;
+  left: 192.0810546875px;
+  color: rgba(117, 117, 117, 1);
+  width: 516px;
+  height: auto;
+  position: absolute;
+  font-size: 15.78749942779541px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 160.0000023841858%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-maskgroup {
+  top: 176.2937469482422px;
+  left: 627.1142578125px;
+  width: 69.28958129882812px;
+  height: 63.87797927856445px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-ellipse121 {
+  top: 0px;
+  left: 0px;
+  width: 69px;
+  height: 64px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-brunettebloggerposingforphoto1 {
+  top: -0.000022760519641451538px;
+  left: -11.908907890319824px;
+  width: 81px;
+  height: 69px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.contactpage-maskgroup1 {
+  top: 176.2937469482422px;
+  left: 522.7412719726562px;
+  width: 69.28958129882812px;
+  height: 63.87797927856445px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-ellipse123 {
+  top: 0px;
+  left: 0px;
+  width: 69px;
+  height: 64px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-indoorpictureofcheerfulhandsomeyoungmanhavingfolde {
+  top: -0.000022760519641451538px;
+  left: -11.908886909484863px;
+  width: 94px;
+  height: 64px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.contactpage-maskgroup2 {
+  top: 176.2937469482422px;
+  left: 418.36871337890625px;
+  width: 69.28958129882812px;
+  height: 63.87797927856445px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-ellipse118 {
+  top: 0px;
+  left: 0px;
+  width: 69px;
+  height: 64px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-modernwomantakingselfie1 {
+  top: -2.1653802394866943px;
+  left: -9.743781089782715px;
+  width: 90px;
+  height: 66px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.contactpage-maskgroup3 {
+  top: 176.2937469482422px;
+  left: 313.9956970214844px;
+  width: 69.28958129882812px;
+  height: 63.87797927856445px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-ellipse117 {
+  top: 0px;
+  left: 0px;
+  width: 69px;
+  height: 64px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-portraitofyoungasianmanlookingconfidentandtakingse {
+  top: -0.000022760519641451538px;
+  left: -14.074414253234863px;
+  width: 94px;
+  height: 67px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.contactpage-maskgroup4 {
+  top: 176.2937469482422px;
+  left: 208.7455291748047px;
+  width: 69.28958129882812px;
+  height: 63.87633514404297px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-ellipse116 {
+  top: 0px;
+  left: 0px;
+  width: 69px;
+  height: 64px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-happyyoungafricanamericanmanisolatedonyellowstudio {
+  top: -5.413278102874756px;
+  left: -17.32219886779785px;
+  width: 105px;
+  height: 70px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 50px;
+}
+.contactpage-group110 {
+  top: 385.03961181640625px;
+  left: -0.000031514566217083484px;
+  width: 899.8873291015625px;
+  height: 127.53538513183594px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-text04 {
+  top: 67.5353775024414px;
+  left: -0.000031514566217083484px;
+  color: rgba(117, 117, 117, 1);
+  width: 215px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-text09 {
+  top: 67.5353775024414px;
+  left: 224.5330352783203px;
+  color: rgba(117, 117, 117, 1);
+  width: 215px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-text14 {
+  top: 67.5353775024414px;
+  left: 445.5580139160156px;
+  color: rgba(117, 117, 117, 1);
+  width: 215px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-text19 {
+  top: 67.5353775024414px;
+  left: 668.3372802734375px;
+  color: rgba(117, 117, 117, 1);
+  width: 232px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-whatsapp11 {
+  top: -0.000004911992618872318px;
+  left: 81.56838989257812px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-discuter1 {
+  top: -0.000004911992618872318px;
+  left: 527.126953125px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-appel1 {
+  top: -0.000004911992618872318px;
+  left: 306.1019287109375px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-gmail1 {
+  top: -0.000004911992618872318px;
+  left: 751.6599731445312px;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-text24 {
+  top: 582.3833618164062px;
+  left: 328.90625px;
+  color: rgba(0, 0, 0, 1);
+  width: 403px;
+  height: auto;
+  position: absolute;
+  font-size: 35.08333206176758px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contactpage-group149 {
+  top: 739.3812866210938px;
+  left: -3.508551836013794px;
+  width: 1217.3916015625px;
+  height: 771.8333740234375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-group102 {
+  top: 0px;
+  left: 0px;
+  width: 1217.3916015625px;
+  height: 771.8333740234375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(245, 228, 123, 1);
+  border-radius: 0px 200px 0px 0px;
+}
+.contactpage-group105 {
+  top: 65.61872100830078px;
+  left: 136.82559204101562px;
+  width: 338.5541687011719px;
+  height: 77.54196166992188px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-rectangle187 {
+  top: 14.235086441040039px;
+  left: 0px;
+  width: 339px;
+  height: 63px;
+  position: absolute;
+  border-color: rgba(248, 181, 58, 1);
+  border-style: solid;
+  border-width: 3.508333206176758px;
+  border-radius: 17.54166603088379px;
+}
+.contactpage-rectangle188 {
+  top: 0px;
+  left: 32.68310546875px;
+  width: 111px;
+  height: 29px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 105.25px;
+}
+.contactpage-text26 {
+  top: 2.7937188148498535px;
+  left: 44.73108673095703px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-group107 {
+  top: 65.61872863769531px;
+  left: 677.98583984375px;
+  width: 342.0625px;
+  height: 78.3619155883789px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-rectangle1871 {
+  top: 14.399016380310059px;
+  left: 0px;
+  width: 342px;
+  height: 64px;
+  position: absolute;
+  border-color: rgba(248, 181, 58, 1);
+  border-style: solid;
+  border-width: 3.508333206176758px;
+  border-radius: 17.54166603088379px;
+}
+.contactpage-rectangle1881 {
+  top: 0px;
+  left: 38.52294921875px;
+  width: 111px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 105.25px;
+}
+.contactpage-text28 {
+  top: 2.7937073707580566px;
+  left: 49.11628341674805px;
+  color: rgba(0, 0, 0, 1);
+  width: 140px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-group106 {
+  top: 232.61871337890625px;
+  left: 136.5087890625px;
+  width: 338.5541687011719px;
+  height: 74.87519073486328px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-rectangle1872 {
+  top: 11.568310737609863px;
+  left: 0px;
+  width: 339px;
+  height: 63px;
+  position: absolute;
+  border-color: rgba(248, 181, 58, 1);
+  border-style: solid;
+  border-width: 3.508333206176758px;
+  border-radius: 17.54166603088379px;
+}
+.contactpage-rectangle1882 {
+  top: 0px;
+  left: 40.68310546875px;
+  width: 146px;
+  height: 29px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 105.25px;
+}
+.contactpage-text30 {
+  top: 0.12706613540649414px;
+  left: 49.11677551269531px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-group144 {
+  top: 398.1957702636719px;
+  left: 136.8253936767578px;
+  width: 883.222900390625px;
+  height: 220.14781188964844px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-rectangle1873 {
+  top: 12.454477310180664px;
+  left: 0.00020581735589075834px;
+  width: 883px;
+  height: 208px;
+  position: absolute;
+  border-color: rgba(248, 181, 58, 1);
+  border-style: solid;
+  border-width: 3.508333206176758px;
+  border-radius: 17.54166603088379px;
+}
+.contactpage-rectangle1883 {
+  top: 0.4229736328125px;
+  left: 105.68359375px;
+  width: 140px;
+  height: 25px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 105.25px;
+}
+.contactpage-text32 {
+  top: -0.000021447413018904626px;
+  left: 114.02125549316406px;
+  color: rgba(0, 0, 0, 1);
+  width: 149px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-group108 {
+  top: 233.61871337890625px;
+  left: 677.6689453125px;
+  width: 342.0625px;
+  height: 74.69522094726562px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-rectangle1874 {
+  top: 10.732322692871094px;
+  left: 0px;
+  width: 342px;
+  height: 64px;
+  position: absolute;
+  border-color: rgba(248, 181, 58, 1);
+  border-style: solid;
+  border-width: 3.508333206176758px;
+  border-radius: 17.54166603088379px;
+}
+.contactpage-rectangle1884 {
+  top: 0px;
+  left: 38.52294921875px;
+  width: 71px;
+  height: 25px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 105.25px;
+}
+.contactpage-text34 {
+  top: 0.9989171028137207px;
+  left: 49.36247253417969px;
+  color: rgba(0, 0, 0, 1);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-c-t-a-contact-now {
+  top: 656.0582275390625px;
+  left: 965.6691284179688px;
+  width: 210.5px;
+  height: 76.30624389648438px;
+  display: flex;
+  padding: 17.54166603088379px 35.08333206176758px;
+  position: absolute;
+  box-shadow: 0px 3.508333206176758px 3.508333206176758px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 52.625px;
+  justify-content: center;
+  background-color: rgba(248, 181, 58, 1);
+}
+.contactpage-text36 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 17.54166603088379px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contactpage-section {
+  top: 1565px;
+  left: 0px;
+  width: 1263px;
+  height: 502px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(54, 54, 54, 1);
+}
+.contactpage-div {
+  top: 0.00009011804650072008px;
+  left: 131.5623321533203px;
+  width: 1000px;
+  height: 501.3627624511719px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-div1 {
+  top: -0.00003195226963725872px;
+  left: -13.15625px;
+  width: 1026px;
+  height: 180.3502655029297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-div2 {
+  top: -0.00003195226963725872px;
+  left: 13.156085968017578px;
+  width: 175px;
+  height: 180.3502655029297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0 0 43.85416793823242px 43.85416793823242px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contactpage-i-m-a-g-e111111logoremovebgpreview1 {
+  top: 38.283203125px;
+  left: 16.4375px;
+  width: 142px;
+  height: 104px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-a {
+  top: 100.86456298828125px;
+  left: 278.4738464355469px;
+  width: 84px;
+  height: 20.172916412353516px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-locationpng {
+  top: 1.8500386476516724px;
+  left: 0.00021632220887113363px;
+  width: 14px;
+  height: 18px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-text38 {
+  top: -0.00005899254392716102px;
+  left: 26.559558868408203px;
+  color: rgba(255, 255, 255, 1);
+  width: 57px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contactpage-a1 {
+  top: 100.86456298828125px;
+  left: 535.020751953125px;
+  width: 132px;
+  height: 20.172916412353516px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-phonepng {
+  top: 0.534331738948822px;
+  left: 0.00021632220887113363px;
+  width: 11px;
+  height: 21px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-text40 {
+  top: -0.00005899254392716102px;
+  left: 23.928146362304688px;
+  color: rgba(255, 255, 255, 1);
+  width: 108px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contactpage-a2 {
+  top: 100.86456298828125px;
+  left: 791.567626953125px;
+  width: 160px;
+  height: 20.172916412353516px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-mailpng {
+  top: 4.481206893920898px;
+  left: 0.00021632220887113363px;
+  width: 17px;
+  height: 13px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-text42 {
+  top: -0.00005899254392716102px;
+  left: 29.19097328186035px;
+  color: rgba(255, 255, 255, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contactpage-div3 {
+  top: 180.3502197265625px;
+  left: -0.00016379792941734195px;
+  width: 1000px;
+  height: 179.8020782470703px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-h5 {
+  top: 17.541648864746094px;
+  left: 447.943115234375px;
+  width: 104px;
+  height: 21.049999237060547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-h5before {
+  top: 23.681272506713867px;
+  left: 32.24600601196289px;
+  width: 39px;
+  height: 4px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 4.385416507720947px;
+}
+.contactpage-text44 {
+  top: -1.7541308403015137px;
+  left: -0.00023733192938379943px;
+  color: rgba(255, 255, 255, 1);
+  width: 107px;
+  height: auto;
+  position: absolute;
+  font-size: 17.54166603088379px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contactpage-form {
+  top: 56.13325881958008px;
+  left: -0.00016379792941734195px;
+  width: 1000px;
+  height: 123.66874694824219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-div4 {
+  top: -0.00004060904757352546px;
+  left: 280.6667785644531px;
+  width: 439px;
+  height: 57.88749694824219px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-text46 {
+  color: rgba(90, 89, 89, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 10.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contactpage-inputemail2 {
+  top: 28.066654205322266px;
+  left: -0.00021632220887113363px;
+  width: 439px;
+  height: 30px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-button {
+  top: 88.58536529541016px;
+  left: 406.3363037109375px;
+  width: 187px;
+  height: 35.08333206176758px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 26.3125px;
+  background-image: linear-gradient(180deg, rgba(245, 228, 123, 1) 0%, rgba(251, 147, 10, 1) 100%);
+}
+.contactpage-text48 {
+  top: 7.016770362854004px;
+  left: 57.01041793823242px;
+  color: rgba(255, 255, 255, 1);
+  width: 73px;
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contactpage-div5 {
+  top: 360.1523132324219px;
+  left: -0.00016379792941734195px;
+  width: 1000px;
+  height: 141.21041870117188px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-h51 {
+  top: 48.23948287963867px;
+  left: 452.1774597167969px;
+  width: 96px;
+  height: 21.049999237060547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-h5before1 {
+  top: 23.681352615356445px;
+  left: 28.02587890625px;
+  width: 39px;
+  height: 4px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 4.385416507720947px;
+}
+.contactpage-text50 {
+  top: -1.7539268732070923px;
+  left: 0.00021632220887113363px;
+  color: rgba(255, 255, 255, 1);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  font-size: 17.54166603088379px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 21.05000114440918px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.contactpage-div6 {
+  top: 99.9874267578125px;
+  left: 410.4748229980469px;
+  width: 179px;
+  height: 28.066667556762695px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.contactpage-fbpng {
+  top: 3.404352355573792e-7px;
+  left: 8.771114349365234px;
+  width: 27px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-twitterpng {
+  top: 3.404352355573792e-7px;
+  left: 53.50269317626953px;
+  width: 27px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-linkedinpng {
+  top: 3.404352355573792e-7px;
+  left: 98.23377990722656px;
+  width: 27px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-instapng {
+  top: 3.404352355573792e-7px;
+  left: 142.96485900878906px;
+  width: 27px;
+  height: 28px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-group143 {
+  top: 0px;
+  left: 0px;
+  width: 1263px;
+  height: 104px;
+  display: flex;
+  padding: 0;
+  position: fixed;
+  z-index: 1000;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-rectangle203 {
+  top: 0px;
+  left: 0px;
+  width: 1263px;
+  height: 95px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-group103 {
+  top: 0px;
+  left: 15.999839782714844px;
+  width: 1133.8563232421875px;
+  height: 104px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-top-menu {
+  top: 0px;
+  left: 0px;
+  width: 1130.460205078125px;
+  height: 104px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-frame4 {
+  top: 19.295825958251953px;
+  left: 76.09375px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.contactpage-group62 {
+  top: 34.20625305175781px;
+  left: 800.5648193359375px;
+  width: 329.8954162597656px;
+  height: 21.000003814697266px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-text52 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-text54 {
+  top: -0.000003367876161064487px;
+  left: 90.33917236328125px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-text56 {
+  top: -0.000003367876161064487px;
+  left: 180.67897033691406px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-text58 {
+  top: -0.000003367876161064487px;
+  left: 271.8954162597656px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-i-m-a-g-e111111logoremovebgpreview11 {
+  top: 0px;
+  left: 0px;
+  width: 142px;
+  height: 104px;
+  position: absolute;
+  border-color: transparent;
+}
+.contactpage-top-menu1 {
+  top: 34.20625305175781px;
+  left: 800.5648193359375px;
+  width: 329.8954162597656px;
+  height: 21.000003814697266px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-group621 {
+  top: 0px;
+  left: 0px;
+  width: 329.8954162597656px;
+  height: 21.000003814697266px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.contactpage-text60 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-text62 {
+  top: -0.000003367876161064487px;
+  left: 271.8954162597656px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14.033332824707031px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contactpage-line9 {
+  top: 55.25624465942383px;
+  left: 1072.46044921875px;
+  width: 61px;
+  height: 0px;
+  position: absolute;
+}
+.displaycontact{
+  display: none;
+}
+@media screen and (max-width:500px) {
+  .displaycontact{
+    display: grid;
+  }
+  .contactpage-container{
+    display: none;
+  }
+  .contactpage-phone1-container {
+    min-height: 100vh;
+  }
+  .contactpage-phone1-contactpage-phone {
+    width: 100%;
+    height: 3074px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .contactpage-phone1-frame10 {
+    top: 94px;
+    left: -19px;
+    width: 427px;
+    height: 711px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-group145 {
+    top: 0px;
+    left: 0px;
+    width: 427px;
+    height: 1989px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .contactpage-phone1-group132 {
+    top: 0px;
+    left: 0px;
+    width: 427px;
+    height: 922px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .contactpage-phone1-text {
+    top: 510px;
+    color: rgba(117, 117, 117, 1);
+    width: 245px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: 139.9999976158142%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-text05 {
+    top: 510px;
+    left: 182px;
+    color: rgba(117, 117, 117, 1);
+    width: 245px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: 139.9999976158142%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-text10 {
+    top: 682px;
+    color: rgba(117, 117, 117, 1);
+    width: 245px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: 139.9999976158142%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-text15 {
+    top: 682px;
+    left: 233px;
+    color: rgba(117, 117, 117, 1);
+    width: 137px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: 139.9999976158142%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-rectangle191 {
+    top: 0px;
+    left: 53px;
+    width: 321px;
+    height: 412px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 52px 52px 52px 0;
+  }
+  .contactpage-phone1-text20 {
+    top: 18px;
+    left: 121px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-text22 {
+    top: 77px;
+    left: 72px;
+    color: rgba(117, 117, 117, 1);
+    width: 281px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: 160.0000023841858%;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-maskgroup {
+    top: 299px;
+    left: 249px;
+    width: 79px;
+    height: 72.83000183105469px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .contactpage-phone1-ellipse121 {
+    top: 0px;
+    left: 0px;
+    width: 79px;
+    height: 73px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-brunettebloggerposingforphoto1 {
+    top: 0px;
+    left: -13.578125px;
+    width: 93px;
+    height: 79px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 100px;
+  }
+  .contactpage-phone1-maskgroup1 {
+    top: 204px;
+    left: 87px;
+    width: 79px;
+    height: 72.828125px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .contactpage-phone1-ellipse116 {
+    top: 0px;
+    left: 0px;
+    width: 79px;
+    height: 73px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-happyyoungafricanamericanmanisolatedonyellowstudio {
+    top: -6.171875px;
+    left: -19.75px;
+    width: 120px;
+    height: 80px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 100px;
+  }
+  .contactpage-phone1-maskgroup2 {
+    top: 204px;
+    left: 249px;
+    width: 79px;
+    height: 72.83000183105469px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .contactpage-phone1-ellipse117 {
+    top: 0px;
+    left: 0px;
+    width: 79px;
+    height: 73px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-portraitofyoungasianmanlookingconfidentandtakingse {
+    top: 0px;
+    left: -16.046875px;
+    width: 107px;
+    height: 77px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 100px;
+  }
+  .contactpage-phone1-maskgroup3 {
+    top: 299px;
+    left: 87px;
+    width: 79px;
+    height: 72.83000183105469px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .contactpage-phone1-ellipse118 {
+    top: 0px;
+    left: 0px;
+    width: 79px;
+    height: 73px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-modernwomantakingselfie1 {
+    top: -2.46881365776062px;
+    left: -11.109375px;
+    width: 102px;
+    height: 75px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 100px;
+  }
+  .contactpage-phone1-discuter1 {
+    top: 631px;
+    left: 100px;
+    width: 44px;
+    height: 44px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-gmail1 {
+    top: 631px;
+    left: 279px;
+    width: 44px;
+    height: 44px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-whatsapp11 {
+    top: 458px;
+    left: 98px;
+    width: 44px;
+    height: 44px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-appel1 {
+    top: 458px;
+    left: 275px;
+    width: 44px;
+    height: 44px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text24 {
+    top: 864px;
+    left: 30px;
+    color: rgba(0, 0, 0, 1);
+    width: 366px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-line19 {
+    top: 832px;
+    left: 69px;
+    width: 289px;
+    height: 0px;
+    position: absolute;
+  }
+  .contactpage-phone1-group105 {
+    top: 1006px;
+    left: 40px;
+    width: 347px;
+    height: 90.22357940673828px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .contactpage-phone1-rectangle187 {
+    top: 18.044715881347656px;
+    left: -1.8189894035458565e-12px;
+    width: 347px;
+    height: 72px;
+    position: absolute;
+    border-color: rgba(247, 197, 80, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+  }
+  .contactpage-phone1-rectangle188 {
+    top: 0px;
+    left: 37.65853500366211px;
+    width: 127px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text26 {
+    top: 5px;
+    left: 51px;
+    color: rgba(0, 0, 0, 1);
+    width: 109px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-group107 {
+    top: 1115px;
+    left: 40px;
+    width: 347px;
+    height: 91.15853118896484px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .contactpage-phone1-rectangle1871 {
+    top: 18.231706619262695px;
+    left: -1.8189894035458565e-12px;
+    width: 347px;
+    height: 73px;
+    position: absolute;
+    border-color: rgba(247, 197, 80, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+  }
+  .contactpage-phone1-rectangle1881 {
+    top: 0px;
+    left: 44px;
+    width: 127px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text28 {
+    top: 5px;
+    left: 56px;
+    color: rgba(0, 0, 0, 1);
+    width: 115px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-group106 {
+    top: 1225px;
+    left: 40px;
+    width: 347px;
+    height: 90.22357940673828px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .contactpage-phone1-rectangle1872 {
+    top: 18.044715881347656px;
+    left: -1.8189894035458565e-12px;
+    width: 347px;
+    height: 72px;
+    position: absolute;
+    border-color: rgba(247, 197, 80, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+  }
+  .contactpage-phone1-rectangle1882 {
+    top: 0px;
+    left: 46px;
+    width: 166px;
+    height: 33px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text30 {
+    top: 5px;
+    left: 56px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-group108 {
+    top: 1334px;
+    left: 40px;
+    width: 347px;
+    height: 86.15853118896484px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .contactpage-phone1-rectangle1873 {
+    top: 13.231706619262695px;
+    left: 0px;
+    width: 347px;
+    height: 73px;
+    position: absolute;
+    border-color: rgba(247, 197, 80, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+  }
+  .contactpage-phone1-rectangle1883 {
+    top: 0px;
+    left: 44px;
+    width: 81px;
+    height: 28px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text32 {
+    top: 2.134146213531494px;
+    left: 56.280487060546875px;
+    color: rgba(0, 0, 0, 1);
+    width: 110px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-group144 {
+    top: 1439px;
+    left: 40px;
+    width: 347px;
+    height: 384px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+    border: solid 2px;
+    border-radius: 10px;
+  }
+  .contactpage-phone1-rectangle1874 {
+    top: 25.118501663208008px;
+    left: 0px;
+    width: 347px;
+    height: 419px;
+    position: absolute;
+    border-color: rgba(247, 197, 80, 1);
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 20px;
+  }
+  .contactpage-phone1-rectangle1884 {
+    top: 0px;
+    left: 41px;
+    width: 159px;
+    height: 50px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text34 {
+    top: 11px;
+    left: 46px;
+    color: rgba(0, 0, 0, 1);
+    width: 145px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contactpage-phone1-c-t-a-contact-now {
+    top: 1902px;
+    left: 93px;
+    width: 240px;
+    height: 87px;
+    display: flex;
+    padding: 20px 40px;
+    position: absolute;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 60px;
+    justify-content: center;
+    background-color: rgba(247, 197, 80, 1);
+  }
+  .contactpage-phone1-text36 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Averta Demo PE Cutted Demo;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .contactpage-phone1-section {
+    top: 2061px;
+    left: 18px;
+    width: 390px;
+    height: 854.234375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(54, 54, 54, 1);
+  }
+  .contactpage-phone1-section1 {
+    top: 854.234375px;
+    left: 0px;
+    width: 390px;
+    height: 65px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(54, 54, 54, 1);
+  }
+  .contactpage-phone1-p {
+    top: 0px;
+    left: 55.703125px;
+    width: 279px;
+    height: 65px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text38 {
+    top: 21px;
+    left: 35px;
+    color: rgba(156, 155, 155, 1);
+    width: 209px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .contactpage-phone1-pborder {
+    top: 0px;
+    left: 55.703125px;
+    width: 279px;
+    height: 65px;
+    position: absolute;
+    display: none;
+  }
+  .contactpage-phone1-div {
+    top: 0px;
+    left: 15px;
+    width: 360px;
+    height: 854.234375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-div1 {
+    top: 0px;
+    left: -15px;
+    width: 390px;
+    height: 488.234375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-div2 {
+    top: 0px;
+    left: 95px;
+    width: 200px;
+    height: 205.625px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 0 0 50px 50px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .contactpage-phone1-i-m-a-g-e111111logoremovebgpreview1 {
+    top: 48.625px;
+    left: 26px;
+    width: 148px;
+    height: 108px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-a {
+    top: 240.625px;
+    left: 147.34375px;
+    width: 95px;
+    height: 23px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-locationpng {
+    top: 2.109375px;
+    left: 0px;
+    width: 16px;
+    height: 21px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text40 {
+    left: 30.28125px;
+    color: rgba(255, 255, 255, 1);
+    width: 65px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .contactpage-phone1-a1 {
+    top: 334.625px;
+    left: 119.671875px;
+    width: 151px;
+    height: 23px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-phonepng {
+    top: 0.609375px;
+    left: 0px;
+    width: 13px;
+    height: 24px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text42 {
+    left: 27.28125px;
+    color: rgba(255, 255, 255, 1);
+    width: 124px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .contactpage-phone1-a2 {
+    top: 429.234375px;
+    left: 103.625px;
+    width: 183px;
+    height: 23px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-mailpng {
+    top: 5.109375px;
+    left: 0px;
+    width: 19px;
+    height: 15px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text44 {
+    left: 33.28125px;
+    color: rgba(255, 255, 255, 1);
+    width: 150px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .contactpage-phone1-div3 {
+    top: 488.234375px;
+    left: 0px;
+    width: 360px;
+    height: 205px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-h5 {
+    top: 20px;
+    left: 120.71875px;
+    width: 119px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-h5before {
+    top: 27px;
+    left: 36.765625px;
+    width: 45px;
+    height: 5px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 5px;
+  }
+  .contactpage-phone1-text46 {
+    top: -2px;
+    color: rgba(255, 255, 255, 1);
+    width: 122px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .contactpage-phone1-form {
+    top: 64px;
+    left: 0px;
+    width: 360px;
+    height: 141px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-div4 {
+    top: 0px;
+    left: 17px;
+    width: 326px;
+    height: 66px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-text48 {
+    color: rgba(90, 89, 89, 1);
+    width: 128px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .contactpage-phone1-inputemail2 {
+    top: 32px;
+    left: 0px;
+    width: 326px;
+    height: 34px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-button {
+    top: 101px;
+    left: 73.28125px;
+    width: 213px;
+    height: 40px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 30px;
+    background-image: linear-gradient(180deg, rgba(245, 228, 123, 1) 0%, rgba(251, 147, 10, 1) 100%);
+  }
+  .contactpage-phone1-text50 {
+    top: 8px;
+    left: 65px;
+    color: rgba(255, 255, 255, 1);
+    width: 84px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .contactpage-phone1-div5 {
+    top: 693.234375px;
+    left: 0px;
+    width: 360px;
+    height: 161px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-h51 {
+    top: 55px;
+    left: 125.546875px;
+    width: 109px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-h5before1 {
+    top: 27px;
+    left: 31.953125px;
+    width: 45px;
+    height: 5px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 5px;
+  }
+  .contactpage-phone1-text52 {
+    top: -2px;
+    color: rgba(255, 255, 255, 1);
+    width: 111px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500;
+    line-height: 24px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .contactpage-phone1-div6 {
+    top: 114px;
+    left: 78px;
+    width: 204px;
+    height: 32px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-fbpng {
+    top: 0px;
+    left: 10px;
+    width: 31px;
+    height: 32px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-twitterpng {
+    top: 0px;
+    left: 61px;
+    width: 31px;
+    height: 32px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-linkedinpng {
+    top: 0px;
+    left: 112px;
+    width: 31px;
+    height: 32px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-instapng {
+    top: 0px;
+    left: 163px;
+    width: 31px;
+    height: 32px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-nav {
+    top: 0px;
+    left: 25px;
+    width: 340px;
+    height: 56.375px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .contactpage-phone1-rectangle193 {
+    top: 0px;
+    left: -25px;
+    width: 390px;
+    height: 56px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-span {
+    top: 13.1875px;
+    left: 297px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-rectangle1 {
+    top: 0px;
+    left: 104px;
+    width: 261px;
+    height: 56px;
+    position: absolute;
+  }
+  .contactpage-phone1-span1 {
+    top: 0px;
+    left: 299px;
+    width: 55px;
+    height: 55px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .contactpage-phone1-i-m-a-g-e111111logoremovebgpreview11 {
+    top: 0px;
+    left: 0px;
+    width: 91px;
+    height: 66px;
+    position: absolute;
+    border-color: transparent;
+  }
+  
+}
